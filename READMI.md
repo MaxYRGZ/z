@@ -15,7 +15,7 @@ Tener instalado python
 1. Clonar el repositorio en la máquina local:
 
    ```sh
-   git clone https://github.com/MaxYRGZ/py-calculador.git
+   git clone https://github.com/MaxYRGZ/z.git
    ```
 2. Navega en el directorio del proyecto:
 
@@ -29,11 +29,11 @@ Después debes de iniciar los contenedores
 Construye la imagen con lo siguiente:
 
    ```sh
-   docker build -t py-calculadora
+   docker build -t z
    ```
 Ejecutar el contenedor 
    ```sh
-   docker run -it py-calculadora
+   docker run -it z
    ```   
 - **NOTA**: Asegurate que se este ejecutando el contenedor
 
